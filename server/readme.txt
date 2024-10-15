@@ -1,0 +1,1 @@
+server is a simple python based app , just serves the below index.html content to user request
