@@ -1,4 +1,4 @@
-# 📦 Project Title: VPC Architecture with Bastion Hosts and NAT Gateway
+# 📦🚀 VPCVision
 
 ## 📖 Overview
 This project outlines the architecture of a Virtual Private Cloud (VPC) on AWS, including the use of Bastion Hosts, NAT Gateways, Auto Scaling Group for servers and more , in a secure and highly available environment. 
